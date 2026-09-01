@@ -25,7 +25,7 @@ Open to federal and cleared work — U.S. citizen, held a DoD Secret clearance 2
   fails when the resume claims something I cannot defend. Four gate fixtures, each earned from a
   real defect. The README is mostly about what the gate *could not* catch, and what four rounds of
   adversarial review found instead.
-- **A Node.js build pipeline for Japanese study material** — 37 finished products (practice packs,
+- **A Node.js build pipeline for Japanese study material** — 43 finished products (practice packs,
   worksheets, slide decks) generated, validated against a gate, and in use at ODU. Private repo;
   happy to walk through it.
 
