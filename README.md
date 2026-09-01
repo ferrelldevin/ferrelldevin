@@ -21,9 +21,13 @@ Open to federal and cleared work — U.S. citizen, held a DoD Secret clearance 2
 - **[Decision log](https://github.com/ferrelldevin/va-chapter31-worksheet/blob/main/DECISIONS.md)** —
   fifteen dated entries from a working log of 157, recording what was decided, what it cost, and
   what would undo it. Most were chosen because I was wrong in them.
-- **A Node.js build pipeline for Japanese course material** — 37 finished products (practice
-  packs, worksheets, slide decks) generated, validated against a gate, and in use by students at
-  ODU. Private repo; happy to walk through it.
+- **[resume-gate](https://github.com/ferrelldevin/resume-gate)** — a resume generator whose build
+  fails when the resume claims something I cannot defend. Four gate fixtures, each earned from a
+  real defect. The README is mostly about what the gate *could not* catch, and what four rounds of
+  adversarial review found instead.
+- **A Node.js build pipeline for Japanese study material** — 37 finished products (practice packs,
+  worksheets, slide decks) generated, validated against a gate, and in use at ODU. Private repo;
+  happy to walk through it.
 
 **How I work:** primary sources over summaries, tests that fail before they pass, and a written
 record of decisions rather than a tidy story afterwards. I build with AI assistance that I direct
